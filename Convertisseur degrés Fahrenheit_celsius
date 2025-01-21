@@ -1,4 +1,4 @@
-# Ceci est un convertisseur de degrès fahrenheit en degrès celsius p
+# Ceci est un convertisseur de degrés fahrenheit en degrès celsius 
 print ("Bienvenue sur notre convertisseur de degrès !")
 
 convertcelsius = float(input("entrer la température en degrès celsius ?: "))
