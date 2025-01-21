@@ -1,3 +1,4 @@
+# première utilisation f-string 
 nom = "Pierron"
 age = 32
 taille = 1.83
